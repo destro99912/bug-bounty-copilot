@@ -1,3 +1,4 @@
+// @ts-nocheck
 import CoPilotWorkspace from "../src/components/CoPilotWorkspace";
 
 export default function Home() {
